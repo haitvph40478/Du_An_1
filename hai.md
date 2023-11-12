@@ -1,0 +1,1 @@
+Tôi vẫn chưa biết dùng git
